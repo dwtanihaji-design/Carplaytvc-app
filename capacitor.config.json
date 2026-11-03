@@ -1,0 +1,6 @@
+{
+  "appId": "com.lgtm.carplayapp",
+  "appName": "CarplayTV",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
